@@ -6,9 +6,11 @@
 /archives/20/feed
 /archives/22/feed
 /archives/24/feed
+/archives/27/feed
 /archives/7/feed
 /archives/9/feed
 /archives/author/rsv
+/archives/category/uncategorized/
 /archives/category/uncategorized/feed
 /comments/feed
 /feed

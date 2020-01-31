@@ -7,14 +7,17 @@
 /archives/20
 /archives/22
 /archives/24
+/archives/27
 /archives/7
 /archives/9
 /archives/category/uncategorized
 /archives/category/uncategorized/page/1
+/archives/category/uncategorized/page/2
 /favicon.ico
 /khmerfly/
 /khmerfly/archives/
 /page/1
+/page/2
 /pages/page/1
 /robots.txt
 /sample-page

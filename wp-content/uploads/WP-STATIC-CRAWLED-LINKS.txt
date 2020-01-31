@@ -7,11 +7,14 @@
 /archives/20
 /archives/22
 /archives/24
+/archives/27
 /archives/7
 /archives/9
 /archives/category/uncategorized
 /archives/category/uncategorized/page/1
+/archives/category/uncategorized/page/2
 /page/1
+/page/2
 /sample-page
 /wp-content/themes/colormag\css\admin\message.css
 /wp-content/themes/colormag\css\admin\theme-review-notice.css
@@ -104,9 +107,11 @@
 /archives/20/feed
 /archives/22/feed
 /archives/24/feed
+/archives/27/feed
 /archives/7/feed
 /archives/9/feed
 /archives/author/rsv
+/archives/category/uncategorized/
 /archives/category/uncategorized/feed
 /comments/feed
 /feed
